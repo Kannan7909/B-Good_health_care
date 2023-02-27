@@ -1,0 +1,2 @@
+[06-Feb-2023 03:43:23 UTC] PHP Warning:  Undefined array key "column" in /home2/edge360demo/public_html/HealthCare/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[06-Feb-2023 03:43:23 UTC] PHP Warning:  Undefined array key "url" in /home2/edge360demo/public_html/HealthCare/wp-content/plugins/elementor/core/logger/items/js.php on line 17
